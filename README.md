@@ -1,4 +1,4 @@
-# 融云 IM Flutter Plugin Demo
+# 萌搭IM APP
 
 ![](https://raw.githubusercontent.com/rongcloud/imkit-flutter-quickstart/master/screenshot1.png)
 ![](https://raw.githubusercontent.com/rongcloud/imkit-flutter-quickstart/master/screenshot2.png)
